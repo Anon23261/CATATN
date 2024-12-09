@@ -1,5 +1,3 @@
-Here’s an updated README.md to reflect that the repository was originally created by Ace2326, but Anon23261 is now the main contributor and lead developer:
-
 # CATATN AI Chatbot
 
 CATATN (Cybernetic AI Tactical and Neural Network) is an advanced AI chatbot designed to assist with complex tasks, answer questions, and provide interactive conversations tailored for specific use cases. It combines cutting-edge AI technology with user-friendly implementation, making it adaptable for a variety of applications.
